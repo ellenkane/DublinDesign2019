@@ -1,0 +1,26 @@
+.header{
+	height:100px;
+	width:100%;
+	background:orange;
+}
+.footer{
+	height:100px;
+	width:100%;
+	background:red;
+}
+.main{
+	height:500px;
+	width:80%;
+	background:yellow;	
+	float:left;
+}
+.side{
+	height:500px;
+	width:20%;
+	background:pink;
+	float:left;
+}
+.main_wrapper{
+	height:500px;
+	width:100%;
+}
